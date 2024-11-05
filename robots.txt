@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://opusauyu.github.io/KBJ/sitemap_index.txt
+Sitemap: https://opusauyu.github.io/TOn/sitemap_index.txt
+Sitemap: https://opusauyu.github.io/XNy/sitemap_index.txt
+Sitemap: https://opusauyu.github.io/tmG/sitemap_index.txt
